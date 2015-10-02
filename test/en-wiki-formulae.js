@@ -9,15 +9,24 @@ var path = require('path');
 // sanity-checking against the ocaml texvccheck.
 var TEXVCBINARY = 0; // "../mediawiki/extensions/Math/texvccheck/texvccheck";
 
-var getocaml = function(input, fixDoubleSpacing, done) {
-    if (!TEXVCBINARY) { done( '-no texvcbinary') ; }
-    var cp = require('child_process');
-    cp.execFile(TEXVCBINARY, [input], { encoding: 'utf8' }, function(err,stdout,stderr) {
-        if (err) { done( '-texvc error ' + err ); }
-        if (stderr) { done( '-texvc stderror ' + stderr); }
-        if (fixDoubleSpacing) { stdout = stdout.replace(/  /g, ' '); }
-        done( stdout );
-    });
+var getocaml = function (input, fixDoubleSpacing, done) {
+    if (!TEXVCBINARY) {
+        done('-no texvcbinary');
+    } else {
+        var cp = require('child_process');
+        cp.execFile(TEXVCBINARY, [input], {encoding: 'utf8'}, function (err, stdout, stderr) {
+            if (err) {
+                done('-texvc error ' + err);
+            }
+            if (stderr) {
+                done('-texvc stderror ' + stderr);
+            }
+            if (fixDoubleSpacing) {
+                stdout = stdout.replace(/  /g, ' ');
+            }
+            done(stdout);
+        });
+    }
 };
 
 var known_bad = Object.create(null);
@@ -148,20 +157,24 @@ var texvc_bugs = Object.create(null);
 
     // unicode literals: ⊈, Ō
     "⊈Ō",
-].forEach(function(s) {
-    if (typeof(s)==='string') { s = { input: s }; }
-    known_bad[s.input] = true;
-    if (s.texvc) {
-        texvc_bugs[s.input] = true;
-    }
-});
+].forEach(function (s) {
+        if (typeof(s) === 'string') {
+            s = {input: s};
+        }
+        known_bad[s.input] = true;
+        if (s.texvc) {
+            texvc_bugs[s.input] = true;
+        }
+    });
 
 // paper over insignificant differences between texvccheck and texvcjs
-var normalize = function(s) {
+var normalize = function (s) {
     s = s.replace(/(\\[a-z]+)\s*\{/g, '$1 {');
     for (var os = s; ; os = s) {
         s = s.replace(/\{\{([^{}]*(|\{[^{}]*\}[^{}]*))\}\}/g, '{$1}');
-        if (os === s) { break; }
+        if (os === s) {
+            break;
+        }
     }
     return s;
 };
@@ -170,18 +183,22 @@ var normalize = function(s) {
 // run them in chunks in order to speed up reporting.
 var CHUNKSIZE = 1000;
 
-describe.skip('All formulae from en-wiki:', function() {
+describe('All formulae from en-wiki:', function () {
     this.timeout(0);
 
     // read test cases
-    var formulae =  require('./en-wiki-formulae.json');
+    var formulae = require('./en-wiki-formulae.json');
 
     // group them into chunks
-    var mkgroups = function(arr, n) {
+    var mkgroups = function (arr, n) {
         var result = [], group = [];
         var seen = Object.create(null);
-        arr.forEach(function(elem) {
-            if (seen[elem.input]) { return; } else { seen[elem.input] = true; }
+        arr.forEach(function (elem) {
+            if (seen[elem.input]) {
+                return;
+            } else {
+                seen[elem.input] = true;
+            }
             group.push(elem);
             if (group.length >= n) {
                 result.push(group);
@@ -189,7 +206,7 @@ describe.skip('All formulae from en-wiki:', function() {
             }
         });
         if (group.length > 0) {
-        result.push(group);
+            result.push(group);
         }
         return result;
     };
@@ -215,10 +232,11 @@ describe.skip('All formulae from en-wiki:', function() {
                         assert.ok(good, f);
                         var r1 = texvcjs.check(result.output);
                         assert.equal(r1.status, '+', f + ' -> ' + result.output);
-	                    if (result.status !== texvcstatus ){
-		                    it('good? ' + JSON.stringify(testcase.inputhash),function(){
-			                    assert.equal(result.status, texvcstatus ); });
-	                    }
+                        if (result.status !== texvcstatus) {
+                            it('good? ' + JSON.stringify(testcase.inputhash), function () {
+                                assert.equal(result.status, texvcstatus);
+                            });
+                        }
                         if (false) {
                             var r2 = texvcjs.check(texvccheck.slice(1));
                             // we should parse our output the same as the output
