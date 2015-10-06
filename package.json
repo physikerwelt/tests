@@ -1,0 +1,36 @@
+{
+  "name": "test",
+  "version": "0.1.0-git",
+  "description": "Testdata",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jshint . && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/physikerwelt/tests"
+  },
+  "keywords": [
+    "tex",
+    "wikitext",
+    "mediawiki",
+    "texvc",
+    "tests",
+    "identifier"
+  ],
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/physikerwelt/tests/issues"
+  },
+  "dependencies": {
+    "commander": "~2.3.0",
+    "texvcinfo": "~0.3.1"
+  },
+  "devDependencies": {
+    "jshint": "~2.5.2",
+    "mocha": "~2.0.1"
+  },
+  "bin": {
+    "texvcjs": "./bin/run"
+  }
+}

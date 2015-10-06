@@ -1,0 +1,19 @@
+#!/usr/bin/env node
+
+var program = require('commander'),
+    texvcinfo = require('texvcinfo'),
+    json = require('../package.json');
+
+program
+    .version(json.version)
+    .usage('[options] <tex input>');
+
+
+program.parse(process.argv);
+
+var input = program.args.join(' ');
+
+var tests = require('../');
+
+var result = texvcinfo.texvcinfo(input, {debug: program.debug, format: program.output, flatTree: program.flat});
+console.log(JSON.stringify(result));
