@@ -1,19 +1,29 @@
 #!/usr/bin/env node
-
 var program = require('commander'),
     texvcinfo = require('texvcinfo'),
-    json = require('../package.json');
+    json = require('../package.json'),
+    fs = require('fs');
 
 program
     .version(json.version)
-    .usage('[options] <tex input>');
+    .usage('<json input file> <json output file>');
 
 
 program.parse(process.argv);
 
 var input = program.args.join(' ');
 
-var tests = require('../');
+var formulae = require(program.args[0]);
+var result=[];
+formulae.map( function(x) {
+    result.push({inputhash:x.inputhash, tokens:texvcinfo.texvcinfo(x.input)});
+});
 
-var result = texvcinfo.texvcinfo(input, {debug: program.debug, format: program.output, flatTree: program.flat});
-console.log(JSON.stringify(result));
+fs.writeFile(program.args[1], JSON.stringify(result), function(err) {
+    if(err) {
+        console.log('error saving document', err);
+    } else {
+        console.log('The file "'+program.args[1]+'" was saved!');
+    }
+});
+

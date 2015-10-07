@@ -1,0 +1,1002 @@
+[
+  {
+    "inputhash": "00001453ad6771567b7ec0e7404a1e79",
+    "input": "P=3B_0\\left(\\frac{1-\\eta}{\\eta^2}\\right)e^{\\frac{3}{2}(B_0'-1)(1-\\eta)}"
+  },
+  {
+    "inputhash": "0000239ab0143b8cd72151bf852d7af7",
+    "input": "\\beth_{d-1}(|\\alpha+\\omega|^{2^{\\aleph_0}})"
+  },
+  {
+    "inputhash": "00004cd84d4d46d0e37b841cd7509c2c",
+    "input": "\\mathrm{REC}(N)"
+  },
+  {
+    "inputhash": "00009654348eebd7ab85d8599c25aace",
+    "input": "W(2, k) > 2^k\/k^\\varepsilon"
+  },
+  {
+    "inputhash": "0000a3595ace35143948315a2841b307",
+    "input": "h=-1"
+  },
+  {
+    "inputhash": "000138f6a2210ff1f9bb5eb7bc25ab6c",
+    "input": "(X,\\Sigma)"
+  },
+  {
+    "inputhash": "0001e5b7a90547e1d7bc8be8a5c1e161",
+    "input": "1-\\left[\\frac{15}{16}\\right]^{16} \\,=\\, 64.39%"
+  },
+  {
+    "inputhash": "00021ba3771fa2c4684c5639fecea94e",
+    "input": "\\tan\\frac{3\\pi}{20}=\\tan 27^\\circ=\\sqrt5-1-\\sqrt{5-2\\sqrt5}\\,"
+  },
+  {
+    "inputhash": "00023b9224ac900169410ee72115cea4",
+    "input": "\n\\chi(T) = T^{2g} + a_1T^{2g-1} + \\cdots + a_gT^g + \\cdots + a_1q^{g-1}T + q^g,\n"
+  },
+  {
+    "inputhash": "00029fdbca88b454dc6e742a8f404ca2",
+    "input": "(p-1)!^n"
+  },
+  {
+    "inputhash": "0002a4a9343567b9a285b034b9a38ecb",
+    "input": "p = { E \\over c } = { hf \\over c } = { h \\over \\lambda }. "
+  },
+  {
+    "inputhash": "0002a95f3d21c0d5e5f455a832f2c17d",
+    "input": "\\psi\\to e^{i\\gamma_{d+1}\\alpha(x)}\\psi\\,"
+  },
+  {
+    "inputhash": "0002cea3a95fae1835af3910d7ca6930",
+    "input": "e \\Delta\\rho \\simeq \\epsilon_0 k_0^2 \\Delta\\phi"
+  },
+  {
+    "inputhash": "000303c8a822cfee55c1bd97c1d4cc4a",
+    "input": "f_c(z) = z^2 + c"
+  },
+  {
+    "inputhash": "000334cb9f0bccc26284c6ef02725e06",
+    "input": "H \\rightarrow G\/N \\times G'\/N'"
+  },
+  {
+    "inputhash": "0003cda16b8f0d055034e3c54846c175",
+    "input": "m_{\\text{o}}"
+  },
+  {
+    "inputhash": "0003d3bfc208df07075efc742b3af376",
+    "input": "\\mathbf{J_2}"
+  },
+  {
+    "inputhash": "0003ff41496b4d8a9a60cf3e03db80f2",
+    "input": "\\{ (p \\to q), (p \\to \\neg q) \\} \\vdash \\neg p"
+  },
+  {
+    "inputhash": "00040a566d6ca57745bff5a2514f424c",
+    "input": "A_\\mu(x_i)"
+  },
+  {
+    "inputhash": "00040baa2353e06d351f6c9dac889ece",
+    "input": " ds^2 = g_{00} \\, dt^2 + g_{jk} \\, dx^j \\, dx^k,\\;\\; j,\\; k \\in \\{1, 2, 3\\} "
+  },
+  {
+    "inputhash": "00047597e6585d2a8d77e2c4bb610401",
+    "input": "\n\\bar{h}(s,i;L)=\\prod_{c=1}^i\\sum_{k_c=2+k_{c-1}}^{L-1-2(i-c)}\\bar{f}_{k_c}(s)\n"
+  },
+  {
+    "inputhash": "0004c246ad141d5412a457dc81323857",
+    "input": "H_1(\\mathrm{A}_3)\\cong H_1(\\mathrm{A}_4) \\cong \\mathrm{C}_3,"
+  },
+  {
+    "inputhash": "000592a04b7c6c5cc9a9429a048b2757",
+    "input": "\n   \\mu = 2C_1~\\sum_{i=1}^5 i\\,\\alpha_i~\\beta^{i-1}~I_1^{i-1} \\,.\n "
+  },
+  {
+    "inputhash": "0005a6b0b0b3be71744f935c4a5eeb3a",
+    "input": "f:\\mathcal{H}_g \\rightarrow V"
+  },
+  {
+    "inputhash": "0005eff4a121d51b65af0ee36bc65e70",
+    "input": "q(\\mathbf{\\pi}) \\prod_{k=1}^K q(\\mathbf{\\mu}_k,\\mathbf{\\Lambda}_k)"
+  },
+  {
+    "inputhash": "000643b3754284c8b2aeb53d4394f021",
+    "input": "(\\forall i\\in I) f[V_i]\\subseteq V_i"
+  },
+  {
+    "inputhash": "0006b557602a072b21da57443b92f449",
+    "input": "254 = 2^8 - 2"
+  },
+  {
+    "inputhash": "000723a6105c190f41462d560ad7458a",
+    "input": "R(X_1, \\ldots, X_{n})"
+  },
+  {
+    "inputhash": "000736cda6b8807641f5244f27742f56",
+    "input": "\nP_{ij}(f)=\\frac{ A_{ij}(f)}\n{\\sqrt{\\mathbf{a}^{*}_j(f)\\mathbf{a}_j(f)}}\n"
+  },
+  {
+    "inputhash": "00073e38a79657d8dfb58930122512ce",
+    "input": "A(x, y)\\,dx + B(x, y)\\,dy"
+  },
+  {
+    "inputhash": "00078c12a085f724c262a7295f8d70b0",
+    "input": "\\frac{\\$\\text{40m}}{\\$\\text{30m}} = 1 \\frac{1}{3} \\approx 1.33"
+  },
+  {
+    "inputhash": "00079c0fe89f86a710a201e0689b2172",
+    "input": "\\int u \\, dv=uv-\\int v \\, du.\\!"
+  },
+  {
+    "inputhash": "0008510cb7881764a542e8502fc95b28",
+    "input": "\\Psi(w,v)=w^\\alpha \\cdot v = \\sum_{i=1}^n w_i^q v_i"
+  },
+  {
+    "inputhash": "0008c41df7229f6c3753f8c45db87f04",
+    "input": "{f_x}(m)"
+  },
+  {
+    "inputhash": "0008d640a21f52b6b7067d7b03547108",
+    "input": "v_i = \\frac{\\partial \\Phi}{\\partial x_i}"
+  },
+  {
+    "inputhash": "000904ee9bee58b7b339bfe4b842e49a",
+    "input": "\\forall x \\, \\forall y \\, P(x,y) \\Leftrightarrow \\forall y \\, \\forall x \\, P(x,y)"
+  },
+  {
+    "inputhash": "000931b2d65a0f6ce57156ed9e2f457e",
+    "input": "\\mathrm{resultant}(p, T)=0"
+  },
+  {
+    "inputhash": "000945530b96364391c181a406d4fa29",
+    "input": "P(X_i=a)"
+  },
+  {
+    "inputhash": "0009d412dbeb47c56fe78c99cfd4dc08",
+    "input": "p = c \\cdot u \\cdot \\rho"
+  },
+  {
+    "inputhash": "0009d7ff4e372f215e5fc71b37a42038",
+    "input": "\\;^+R_{\\alpha \\beta} - {1 \\over 2} g_{\\alpha \\beta} \\;^+R = 0."
+  },
+  {
+    "inputhash": "000a91452ffe8335b67f0e5ff2c0a767",
+    "input": "\\textstyle P ( A \\Delta f^{-1}(B) ) = 0. "
+  },
+  {
+    "inputhash": "000ab33a85842800e48143f212ac5fc0",
+    "input": "p = 1\\; \\text{GeV}\/c = \\frac{(1 \\times 10^{9}) \\cdot (1.60217646 \\times 10^{-19} \\; \\text{C}) \\cdot \\text{V}}{(2.99792458 \\times 10^{8}\\; \\text{m}\/\\text{s})} = 5.344286 \\times 10^{-19}\\; \\text{kg}{\\cdot}\\text{m}\/\\text{s}."
+  },
+  {
+    "inputhash": "000ad1eb8a2c2182ff048350cc9eb0e8",
+    "input": "\\alpha(x)"
+  },
+  {
+    "inputhash": "000ae84c0190bb851b585c79e3b8449f",
+    "input": "\\,2"
+  },
+  {
+    "inputhash": "000af2fae5bdfcd63e6dc3e5bce0dea3",
+    "input": "f^*(x^*) = \\sup_{x\\in X}(\\langle x^*,x\\rangle-f(x)),\\quad x^*\\in X^*"
+  },
+  {
+    "inputhash": "000b1d2bea2949b83a2325c116ed0f04",
+    "input": "\\nabla T = \\omega\\otimes T. \\, "
+  },
+  {
+    "inputhash": "000b37155b94f927910c738a2cb82536",
+    "input": "f(\\lambda x + (1 - \\lambda)y)>\\min\\big(f(x),f(y)\\big)"
+  },
+  {
+    "inputhash": "000b55413dd8e51c6a5331d756bb35cd",
+    "input": "r_{k} = \\frac{B_{0} - B_{k}}{B^{*} - B_{0}}"
+  },
+  {
+    "inputhash": "000b60e64695a061524870992c804694",
+    "input": "\\mathfrak{H} =\n\\begin{pmatrix}\nZ_\\infty & - \\gamma_1 \\gamma_2 \\\\\n1        & - z_\\infty\n\\end{pmatrix}, \\;\\;\nZ_\\infty = \\gamma_1 + \\gamma_2 - z_\\infty.\n"
+  },
+  {
+    "inputhash": "000bdb583c44e7082a31ebb9e6d3270e",
+    "input": "Y_{8}^{6}(\\theta,\\varphi)={1\\over 128}\\sqrt{7293\\over \\pi}\\cdot e^{6i\\varphi}\\cdot\\sin^{6}\\theta\\cdot(15\\cos^{2}\\theta-1)"
+  },
+  {
+    "inputhash": "000c0ecd3b1cdd0c543c83fb72777e40",
+    "input": "\\|u\\|=\\sqrt{(u|u)}."
+  },
+  {
+    "inputhash": "000c247a72b758a4a7b58c94ef5c0143",
+    "input": " C_T',"
+  },
+  {
+    "inputhash": "000c2d05999df03021184202a05ed589",
+    "input": "\\frac{\\Box p}p"
+  },
+  {
+    "inputhash": "000c2fdc9d5f7e0d8645da414718e55b",
+    "input": "(a+bi) (c+di) = (ac-bd) + (bc+ad)i.\\ "
+  },
+  {
+    "inputhash": "000c509e2ba315d93d74f4358779d6db",
+    "input": "V=5 (Y\/19.77)^{0.426}=1.4 Y^{0.426}"
+  },
+  {
+    "inputhash": "000ccb0783ce670a6c05781e17c96ac4",
+    "input": "H=H_e + H_h +V(r_e -r_h)"
+  },
+  {
+    "inputhash": "000dd16a691352805a456b763a587df9",
+    "input": "E \\cup F"
+  },
+  {
+    "inputhash": "000dd846c45c943c8bc9924ef48d1f0d",
+    "input": "e^{i\\mathbf{k \\cdot r_{12}}}"
+  },
+  {
+    "inputhash": "000de4afc6a32a049d59aeacdb9ef318",
+    "input": "f(x) = x^2 - x + 2"
+  },
+  {
+    "inputhash": "000dfe97e8b66bd454b3cee3f7fdd708",
+    "input": "e^{c(\\ln n)^\\alpha(\\ln\\ln n)^{1-\\alpha}}"
+  },
+  {
+    "inputhash": "000e03d98da2c9a1864a463164762254",
+    "input": "\\frac{1}{\\ln p}"
+  },
+  {
+    "inputhash": "000e18741a314511f1bc6557ae754035",
+    "input": " \\mbox{E} =\\frac{\\sqrt{1.64 \\cdot N} \\cdot  \\sqrt{ 120\\cdot \\pi}}{2\\cdot \\sqrt{\\pi}\\cdot d} \n\n \\approx 7\\cdot\\frac{ \\sqrt{N}}{d}"
+  },
+  {
+    "inputhash": "000e540b8ebc9ff725e5bb41d49be814",
+    "input": " \\text{Spec }B "
+  },
+  {
+    "inputhash": "000e5c1739ea28760d66f6d05f0e18d1",
+    "input": "\nJ_{\\alpha} = \n\\int_{0}^{\\infty}  \\frac{dx}{\\left( x + b^{2} \\right) \\sqrt{\\left( x + a^{2} \\right)^{3}}}\n"
+  },
+  {
+    "inputhash": "000ec8a8686baebba2fe12442b863020",
+    "input": "U_{11} - U_{21}"
+  },
+  {
+    "inputhash": "000f32a1b8f6232759a658d470fe72c5",
+    "input": "y = p(x)"
+  },
+  {
+    "inputhash": "000f743b3f56fd60b28545a4a844b238",
+    "input": "|{\\Psi}\\rangle=\\sum_{i_1,i_2,\\alpha_1,\\alpha_2}\\Gamma^{[1]i_1}_{\\alpha_1}\\lambda^{[1]}_{\\alpha_1}\\Gamma^{[2]i_2}_{\\alpha_1\\alpha_2}\\lambda^{[2]}_{{\\alpha}_2}|{i_1i_2}\\rangle|{\\Phi^{[3..N]}_{\\alpha_2}}\\rangle"
+  },
+  {
+    "inputhash": "000f9bd1ad9b3b09c9aa4c60c45692fc",
+    "input": "e = O( n^{2\/3} m^{2\/3} + n + m )"
+  },
+  {
+    "inputhash": "000febfeef5745a752e85b94b75cf713",
+    "input": "(t_2,t_1,F_{t_1,t_0}(p)) \\in D(X)"
+  },
+  {
+    "inputhash": "000ff44c1346a4a8419c634aa6792a6b",
+    "input": "\\scriptstyle (m\\mid k)"
+  },
+  {
+    "inputhash": "0010ce961820b14519f4edb042677035",
+    "input": "\\vec{b} \\equiv \\vec{B}\/B"
+  },
+  {
+    "inputhash": "0010d521b3b9b45b628e76ac7a7e0477",
+    "input": "\\mathit{MPC} = \\frac{\\Delta C}{\\Delta Y}"
+  },
+  {
+    "inputhash": "00114d741d2031bf778fd8e43ac0cbeb",
+    "input": "(r,\\theta_r,\\phi_r)"
+  },
+  {
+    "inputhash": "00114eb3ada60483709d9dc80af6eb9e",
+    "input": "\nL_\\mathrm{dB} = 10 \\log_{10} \\bigg(\\frac{P_1}{P_0}\\bigg) \\,\n"
+  },
+  {
+    "inputhash": "0011faa0f320ff9b7bc5a9e9ec93bd19",
+    "input": "\\sqrt{\\det g}\\mathcal{D}\\Sigma."
+  },
+  {
+    "inputhash": "001222b8821d1da420dbe52f697b6ceb",
+    "input": "(x',y') = (x,y) A + b\\,"
+  },
+  {
+    "inputhash": "00123391b9f305cfe97c99078735ae00",
+    "input": "\\tilde{k}\\,"
+  },
+  {
+    "inputhash": "00124f922ab1a17e5e2a9a6c50b17a11",
+    "input": "\\displaystyle{AB=-BA,\\,\\,\\,\\,A^2-B^2 =I.}"
+  },
+  {
+    "inputhash": "0012c829b2e3bbb683c9a17381e15b4e",
+    "input": "\\frac{\\mathbf{T}(s+\\Delta{s})-\\mathbf{T}(s)}{\\Delta{s}}=-\\mathbf{q}(s). "
+  },
+  {
+    "inputhash": "0013269ea11adb76b0e5c55c5d2da6e3",
+    "input": "34^2"
+  },
+  {
+    "inputhash": "0013271afabc2f00efdeafe99dabfc9c",
+    "input": "\\; P(s_i)"
+  },
+  {
+    "inputhash": "0013383b9f26d293e8432ded6c3e5520",
+    "input": "\\begin{align} S_1 &=& a_1& & &\\\\\nS_2 &=& a_1& {}+ a_2& &\\\\\nS_3 &= &a_1& {}+ a_2& {}+ a_3&\\\\\n\\vdots & &\\vdots & & &\\\\\nS_N &=& a_1& {}+ a_2& {}+ a_3& {}+ \\cdots \\\\\n\\vdots & &\\vdots & & &\\end{align}"
+  },
+  {
+    "inputhash": "001384455f0b171fd018da65ca08ae9a",
+    "input": "V \\otimes V \/ (v_1 \\otimes v_2 + v_2 \\otimes v_1 \\text{ for all } v_1, v_2 \\in V)."
+  },
+  {
+    "inputhash": "0013ada8dc886f1e875984bee5fdea27",
+    "input": "\n\\rho_{x^{n}\\left(  m\\right)  }=\\rho_{x_{1}\\left(  m\\right)  }\\otimes\n\\cdots\\otimes\\rho_{x_{n}\\left(  m\\right)  }.\n"
+  },
+  {
+    "inputhash": "0013b318ce7c8b8ca29b706aaa5ec54d",
+    "input": "  \\mathbf{A}\\mathbf{B} = \\mathbf{A} \\cdot \\mathbf{B} + \\mathbf{A} \\times \\mathbf{B}  + \\mathbf{A} \\wedge \\mathbf{B}.  "
+  },
+  {
+    "inputhash": "00141348cd6cabc06166525b88bb1493",
+    "input": "\\lim \\sup _{\\alpha} (n_{\\alpha}\/m_{\\alpha}) < r"
+  },
+  {
+    "inputhash": "00143ba3149a2dfac0bbad577d553b6c",
+    "input": " \\vec{A} = \\frac{B}{2}(x\\hat{y} - y\\hat{x})"
+  },
+  {
+    "inputhash": "001462c07545b4ba9084efef2a96cf16",
+    "input": "\n\\begin{align}\nq &= q \\left(p + 2 q + r\\right)\\\\\n&= q p + 2 q^2 + q r\\\\\n&= q^2 + q (p + r) + q^2\\\\\n&= q^2 + q (p + r) + p r\\\\\n&= \\left(p + q\\right) \\left(q + r\\right)\\\\\n&= q_1\n\\end{align}\n"
+  },
+  {
+    "inputhash": "00147bc5b79f2b9ed52b22af8d073758",
+    "input": "z*x\\le y"
+  },
+  {
+    "inputhash": "00148c7652375ca3d73b9b13e86e6c09",
+    "input": "\\psi(\\hat{\\alpha}) - \\psi(\\hat{\\alpha} + \\hat{\\beta})= \\ln \\hat{G}_X"
+  },
+  {
+    "inputhash": "0014c0cbfae8735b260b1d36141ba2fb",
+    "input": "\\lim_\\alpha \\gamma := \\bigcap_{n\\in \\mathbb{R}}\\overline{\\{\\varphi(x,t):t<n\\}}."
+  },
+  {
+    "inputhash": "0014ef9d03a61d379058ee81b8306ba2",
+    "input": "a_{12}\\,dx\\wedge dy + a_{13}\\,dx\\wedge dz + a_{23}\\,dy\\wedge dz;"
+  },
+  {
+    "inputhash": "0014f6558469ba4380401518bc112eab",
+    "input": "\\rho(-X)"
+  },
+  {
+    "inputhash": "0014fd219fc32a104f17c85feed0ec75",
+    "input": " \\frac{d}{dx}\\left( \\log_c x\\right) = {1 \\over x \\ln c} , \\qquad c > 0, c \\ne 1"
+  },
+  {
+    "inputhash": "001526024fa254f09f605fe336f1efb9",
+    "input": "\\textstyle x+C_{i}"
+  },
+  {
+    "inputhash": "0015764e9f5498369d691b91d3e231a0",
+    "input": "{f_{xy}\\;=\\;f_{yx}}"
+  },
+  {
+    "inputhash": "0015c94baa30e618e20880703cd9574e",
+    "input": "\\kappa( \\cdot, \\cdot)"
+  },
+  {
+    "inputhash": "00160f32f654a73bc70209c66ba07704",
+    "input": " K = \\mathbb{Q} "
+  },
+  {
+    "inputhash": "001664050cbc76569028d6ac26295a53",
+    "input": "\\theta = n \\times 137.508^\\circ,"
+  },
+  {
+    "inputhash": "0016dac7c84a2f7a9a5b064c68d1af56",
+    "input": "B^\\prime=-(n_b-n_\\bar{b})"
+  },
+  {
+    "inputhash": "0017516c449d71df2d3f9b14a22cab76",
+    "input": "RD = \\min\\left(\\sqrt{{RD_0}^2 + c^2 t},350\\right)"
+  },
+  {
+    "inputhash": "001758801bb0a24a60d89d6ed42620aa",
+    "input": "\\displaystyle{g^\\prime=\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix},}"
+  },
+  {
+    "inputhash": "00178a6c0a72a69875dabaf4d5ccc192",
+    "input": "\n  \\frac{1}{(p+1)\\left(b^2-4 a\\,c\\right) \\left(c\\,d^2-b\\,d\\,e+a\\,e^2\\right)}\\,\\cdot\n"
+  },
+  {
+    "inputhash": "00178f10a40e91f76517d52061ef2a42",
+    "input": "(n+1)!"
+  },
+  {
+    "inputhash": "00179f58dfc9cf36493673f0dacf255e",
+    "input": "s_V(\\mathcal{R})"
+  },
+  {
+    "inputhash": "0017f09b2d0eb84ef7d74112761e5ca2",
+    "input": "\\begin{align}\n\\Phi _{1} & =\\Phi _{2}\\equiv \\Phi (x_{\\perp }) \\\\\n& =-2p_{1}\\cdot A_{1}+A_{1}^{2}+2m_{1}S_{1}+S_{1}^{2} \\\\\n& =-2p_{2}\\cdot A_{2}+A_{2}^{2}+2m_{2}S_{2}+S_{2}^{2} \\\\\n& =2\\varepsilon _{w}A-A^{2}+2m_{w}S+S^{2}, \n\\end{align}"
+  },
+  {
+    "inputhash": "0017fa64796d63c8af98928a15b3662c",
+    "input": "-F\\mathbf{e}_y"
+  },
+  {
+    "inputhash": "001803962c3d9e04abb4057c65fa219a",
+    "input": "d_{\\phi}=1"
+  },
+  {
+    "inputhash": "00180c42d14cacb3f499b74661393fb8",
+    "input": "|f(s)g(s)| \\le \\frac{|f(s)|^p}p + \\frac{|g(s)|^q}q,\\qquad s\\in S."
+  },
+  {
+    "inputhash": "001848ad365fbadd5ad138e8c017229c",
+    "input": "c_{\\rm s}"
+  },
+  {
+    "inputhash": "0018ea864cfdaca5dd616457e5376705",
+    "input": "X,Y,Z"
+  },
+  {
+    "inputhash": "001906e750dc40c74b91cf7d58e53031",
+    "input": "S^k \\,"
+  },
+  {
+    "inputhash": "001914d9d31353c1e3f3a0cc4f5d1b26",
+    "input": "\\mathbf{a}_{\\mathrm{average}} = \\frac{\\Delta\\mathbf{v}}{\\Delta t} "
+  },
+  {
+    "inputhash": "0019535400d4fd1cc406673a5c837318",
+    "input": " \\sum_i {}^\\phi{V}_i= q V - (q-1)\\sum_i V_i \\,"
+  },
+  {
+    "inputhash": "0019561cf8dcc36cdbaef1e31544dba0",
+    "input": "WL"
+  },
+  {
+    "inputhash": "00195c93942fa87df4fc3cc6475b99f9",
+    "input": "h = \\frac{1}{4} kd \\theta^2"
+  },
+  {
+    "inputhash": "0019c83f9d0e4f79dbb27fa6520759ef",
+    "input": "\\ell(m)"
+  },
+  {
+    "inputhash": "001a3615880485d99edbd2bcfd14bbd6",
+    "input": "id_\\tau"
+  },
+  {
+    "inputhash": "001a607e35251386d2e1be0dfd149e51",
+    "input": " \\mathbf{L} = \\mathbf{r} \\times \\mathbf{p} = \\mathbf{I} \\cdot \\boldsymbol{\\omega} "
+  },
+  {
+    "inputhash": "001ab4e8bcdb353a5c9bd1db301c1b29",
+    "input": "x+n+a = \\sqrt{ax+(n+a)^2 +x\\sqrt{a(x+n)+(n+a)^2+(x+n) \\sqrt{\\cdots}}}"
+  },
+  {
+    "inputhash": "001ac223727c30afb98538642f53b42f",
+    "input": "\\left( \\frac{2}{3} \\right) ^3 \\times 2^2"
+  },
+  {
+    "inputhash": "001ad3e03ed6e69c3304e438fa6e082b",
+    "input": "\\mathbb{P} (Y \\le 0.75|X=0.5) = \\int_{-\\infty}^{0.75} f_{Y|X=0.5}(y) \\, \\mathrm{d}y = \\int_{-\\sqrt{0.75}}^{0.75} \\frac{\\mathrm{d}y}{\\pi \\sqrt{0.75-y^2} } = \\tfrac12 + \\tfrac1{\\pi} \\arcsin \\sqrt{0.75} = \\tfrac56."
+  },
+  {
+    "inputhash": "001b05b435b5ca1ad78f35000decd950",
+    "input": "{\\log}\\circ g: x\\mapsto \\log x^2 = 2 \\log |x|"
+  },
+  {
+    "inputhash": "001bae4d7ab52c8a0edd0a57e8d85701",
+    "input": "\\mathrm{Poi}\\left(\\frac{C(23, 2)}{365}\\right) =\\mathrm{Poi}\\left(\\frac{253}{365}\\right) \\approx \\mathrm{Poi}(0.6932)"
+  },
+  {
+    "inputhash": "001bde6f639fbdb6285b504b829d3dce",
+    "input": "bx-x^2"
+  },
+  {
+    "inputhash": "001c03be5066415d5004e2ad5cd961da",
+    "input": " \\mathbf{E}(z,t) = e^{-z \/ \\delta_{skin} } \\mathrm{Re} (\\mathbf{E}_0 e^{i(k z - \\omega t)})"
+  },
+  {
+    "inputhash": "001c03cd18548eff08e44a1c6a40460b",
+    "input": "\n\\begin{bmatrix}\n0&1&0&1&0&0&0&0&0\\\\\n0&0&1&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&1&0&1&0&1\\\\\n0&0&0&0&0&1&0&0&0\\\\\n0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&1&0\\\\\n0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0\n\\end{bmatrix}\n"
+  },
+  {
+    "inputhash": "001c1c698265214507f5814c8c9bbe62",
+    "input": "f(x)=  \\begin{cases} \n\\frac{\\nu}{x} \\left \\{ F_{\\nu+2,\\mu} \\left (x\\sqrt{1+\\frac{2}{\\nu}} \\right ) - F_{\\nu,\\mu}(x)\\right \\}, &\\mbox{if } x\\neq 0; \\\\\n\\frac{\\Gamma(\\frac{\\nu+1}{2})}{\\sqrt{\\pi\\nu} \\Gamma(\\frac{\\nu}{2})} \\exp\\left (-\\frac{\\mu^2}{2}\\right), &\\mbox{if } x=0.\n\\end{cases}"
+  },
+  {
+    "inputhash": "001c5d215d3b2e814fd7cd1aa4ff25d9",
+    "input": "\\Sigma \\chi(n)\\,"
+  },
+  {
+    "inputhash": "001c5d9c01ea2876ea70689bc638e282",
+    "input": "\\omega_{k}"
+  },
+  {
+    "inputhash": "001c9503cb4f65ca231b9ff284672084",
+    "input": "\\mathbf{m}_1"
+  },
+  {
+    "inputhash": "001ce3f609a62621c609e14916adfe6d",
+    "input": "s_2 = r_2 - cx_2 (\\mathrm{mod}\\,q) "
+  },
+  {
+    "inputhash": "001d17159eebbaefe304508512f197cc",
+    "input": "(-3n,5+5n)"
+  },
+  {
+    "inputhash": "001d433c42ed4314705b2e49be9be3c5",
+    "input": " \\operatorname{Weight}(\\sigma) = \\prod_{i=1}^n a_{i,\\sigma(i)}."
+  },
+  {
+    "inputhash": "001da83ce80e2772b581b06641d3ca0c",
+    "input": "\\hat{U}^{\\dagger}\\hat{U} = I,"
+  },
+  {
+    "inputhash": "001de956296095739ae9e0dc253c9269",
+    "input": "C\\ell(E) = F(E) \\times_\\rho C\\ell_n\\mathbb R"
+  },
+  {
+    "inputhash": "001df96de10d73eb37ced28a37eed908",
+    "input": "\\theta=\\zeta_n^{a_{g,n}}"
+  },
+  {
+    "inputhash": "001e2e0eb8437d7fafe16bdea61c10f3",
+    "input": "A\/4\\ell_\\text{P}^2"
+  },
+  {
+    "inputhash": "001e37a6336dbdddd5ac30dfc8964b0d",
+    "input": "r_{ij}"
+  },
+  {
+    "inputhash": "001e7337ad903328d8889cc1ede11dc1",
+    "input": "h_{\\bar{a}}(\\bar{x})^{\\mathrm{strong}} = (a_0 + \\sum_{i=0}^{k} a_{i+1} x_{i}   \\bmod ~ 2^{2w} ) \\div 2^w "
+  },
+  {
+    "inputhash": "001ea95cf12dc19b9749fa4c5600c6ed",
+    "input": " =\n\\begin{bmatrix}\nW_{11} & W_{12} &  &    \\\\\n       & W_{22} & W_{23} &    \\\\\n       &        & W_{33} & W_{34}   \\\\\n       &        &        & W_{44}  \\\\\n\\end{bmatrix}\n"
+  },
+  {
+    "inputhash": "001f090921d4950e090223a9db6fb0be",
+    "input": " \n\\mu_k(A-A_k)<\\epsilon,~\\forall k\\geq N.\n"
+  },
+  {
+    "inputhash": "001f1531e895160d2f69783938a8d931",
+    "input": "\\Leftrightarrow P(B|A) \\ = \\ P(B)"
+  },
+  {
+    "inputhash": "001f223d90ce21bb776d2afe729bfeac",
+    "input": "\\mathcal{C} = \\{ \\mathbf{q} \\in \\mathbb{R}^N \\}\\,,"
+  },
+  {
+    "inputhash": "001f504393a856e45d22e00796231c32",
+    "input": "\\vec r (t)"
+  },
+  {
+    "inputhash": "001f53b99bd91a14b91c2e4d6d62757a",
+    "input": " Z = \\sum_{j} g_j \\cdot \\mathrm{e}^{- \\beta E_j}"
+  },
+  {
+    "inputhash": "001fb78130e343f9c200bd3aa484a3f7",
+    "input": "\\tau = \\int_{E_{th}}^{E'} dE'' \\frac{1}{E''} \\frac{D(E'')}{\\overline{\\xi} \\left[ D(E'') {B_g}^2 + \\Sigma_t(E') \\right]}"
+  },
+  {
+    "inputhash": "001fdd3fb9e94017c83e467233ef49ec",
+    "input": "\\displaystyle{H=f-P(f_{\\overline{z}})}"
+  },
+  {
+    "inputhash": "001fdfda5cdd7974a1f1e9f94673914b",
+    "input": "\nV = \\frac{w_{1}(q_{1}) + w_{2}(q_{2}) + \\cdots + w_{s}(q_{s}) }{u_{1}(q_{1}) + u_{2}(q_{2}) + \\cdots + u_{s}(q_{s}) }\n"
+  },
+  {
+    "inputhash": "00201b4361e4f3f5e5e6700e906ab77e",
+    "input": "f_1,\\dots,f_{2^n} : \\{0,1\\}^k\\to \\{0,1\\}"
+  },
+  {
+    "inputhash": "002094dbb4ecaa0e1203ad652f1688dc",
+    "input": "\\theta_{k}-\\theta_{k-1}"
+  },
+  {
+    "inputhash": "00213d222a8d87df7a615d7276c5a6cc",
+    "input": "s_0(1-s_0)"
+  },
+  {
+    "inputhash": "0021503bde14e7a6b4016da9424dcf7d",
+    "input": "\\frac{e^x}{x^x}\\,"
+  },
+  {
+    "inputhash": "002155c7baeb5176edda09dbdefab697",
+    "input": "\\frac{\\langle E \\rangle}{A} = \n\\lim_{s\\to 0} \\frac{\\langle E(s) \\rangle}{A} = \n-\\frac {\\hbar c \\pi^{2}}{6a^{3}} \\zeta (-3)."
+  },
+  {
+    "inputhash": "0021c015403002b9cd758587bb4b6964",
+    "input": "q_2 = 1+\\frac{k+1}{6N}+\\frac{k^2}{6N^2}. "
+  },
+  {
+    "inputhash": "00222862eb12394ac0c8c08e36208b90",
+    "input": "R = R_{\\alpha \\beta}^{\\;\\;\\;\\; IJ} e_I^\\alpha e_J^\\beta."
+  },
+  {
+    "inputhash": "00223afcebe050cdafb431b459794ef3",
+    "input": "<k> = pN(N-1)"
+  },
+  {
+    "inputhash": "00225356a24bd1ec942aeca27c1a547a",
+    "input": " {v} \\,"
+  },
+  {
+    "inputhash": "0022573b4553c3cd0fcebdfc5e357e55",
+    "input": " \\langle 0 | R\\phi(x)\\phi(y) + \\phi(y)R\\phi(x)|0\\rangle = 0 \\, "
+  },
+  {
+    "inputhash": "00226656ea0692401f9834fe6994da11",
+    "input": "S'"
+  },
+  {
+    "inputhash": "0022669f61dc6da750ad3b0b6cd0ab48",
+    "input": "\\text{Ker} (k_* - l_*) \\cong \\text{Im} (i_*, j_*)."
+  },
+  {
+    "inputhash": "0022f6407bd7dc02538291c1ffe49744",
+    "input": "x=\\frac{X-X_0}{\\lambda}"
+  },
+  {
+    "inputhash": "00231e43bf02e01b0e106fc44adb74e5",
+    "input": "Y_1,Y_2,Y_3"
+  },
+  {
+    "inputhash": "002326506700d44c9abb37d147e43b5b",
+    "input": "2v_c \\sin(\\alpha + \\beta) = c (\\cos(\\alpha - \\beta) - \\cos (\\alpha + \\beta)).\\,"
+  },
+  {
+    "inputhash": "002366902dffd8673e5f838a29448df7",
+    "input": " e(\\mathbf{p},u)"
+  },
+  {
+    "inputhash": "0023c250d7374bd8d6cec3b306e3c490",
+    "input": "p_1 = p_2"
+  },
+  {
+    "inputhash": "002506aecf8a8eca0bddf976a3e83647",
+    "input": "x_r(\\theta_r(t))"
+  },
+  {
+    "inputhash": "0025775d9f14d8821126387b6fa5c846",
+    "input": "D(G,H) = \\sum_{i=1}^{29} | F_i(G) - F_i(H) |"
+  },
+  {
+    "inputhash": "0025b36cbda8365c09737acc9159df57",
+    "input": "\\gamma-"
+  },
+  {
+    "inputhash": "0025cd57f9b2bd585ee2e2b8a93ef1ad",
+    "input": "P(X_1, \\ldots, X_N) = \\frac{e^{-\\frac{E}{k_{\\rm B} T}}}{\\int dX_1\\,dX_2 \\ldots dX_N e^{-\\frac{E}{k_{\\rm B} T}}}"
+  },
+  {
+    "inputhash": "0025e1301274e14414e139894060dc23",
+    "input": "C(x_j,x_k)"
+  },
+  {
+    "inputhash": "0025e75d1ffda9c4bff6b3de9560fe9d",
+    "input": "(gu)h = (gh^{-1})u"
+  },
+  {
+    "inputhash": "00262cd78d796a5bb0baa8fd774728fd",
+    "input": "\\Delta^0_n,"
+  },
+  {
+    "inputhash": "00267af4bf244fb88fc329938fac577c",
+    "input": "rK=D_K[F(K,L)]*K\\,"
+  },
+  {
+    "inputhash": "00269b430e579348929cba8ca3c9990c",
+    "input": "p \\mid m_i"
+  },
+  {
+    "inputhash": "00269e3bc1fc99fff7bc6d83b0d70bd0",
+    "input": "\\! t"
+  },
+  {
+    "inputhash": "0026a625f7d3fd336acca8ae2bfcc06e",
+    "input": "\\! E_\\mathrm{h} \/ a_0 "
+  },
+  {
+    "inputhash": "0026b62d6355a23f08830d835b366f02",
+    "input": "2\\omega"
+  },
+  {
+    "inputhash": "00279c44b6f5f02d0d5a761218b91ce4",
+    "input": " E_\\text{k} = E_t + E_\\text{r} \\, "
+  },
+  {
+    "inputhash": "0027acfd0c7490167b612c4b8b787509",
+    "input": "\\mathrm{ber}(x) \/ e^{x\/\\sqrt{2}}"
+  },
+  {
+    "inputhash": "0027e0646c279e8a69c9579dbef60613",
+    "input": "((-g)(T^{\\mu \\nu} + t_{LL}^{\\mu \\nu}))_{,\\mu} = 0 "
+  },
+  {
+    "inputhash": "002825bde096fa03b809c2b7fa66fe47",
+    "input": " \\sum_{g \\in G} f(g) g"
+  },
+  {
+    "inputhash": "00287e7aa89ea392e3ecb9cb2837eeb9",
+    "input": "\\tilde{\\boldsymbol{\\Sigma}}"
+  },
+  {
+    "inputhash": "002884828b36c8d042d8a853f57e5eec",
+    "input": "P(X > x) = Q(x) = \\frac{1}{\\sqrt{2\\Pi}} \\int_{x}^{+\\infty} e^-\\tfrac{X^2}{2}"
+  },
+  {
+    "inputhash": "0028c604c387c78bc42c47b30010b464",
+    "input": "\\begin{pmatrix}\n-i & i\\\\\n0 & i\n\\end{pmatrix}"
+  },
+  {
+    "inputhash": "00290f11d9ba0677c1614e97a3e1f097",
+    "input": "v(t) = \\int_{t_0}^{t} i(\\tau) d\\tau.\\,"
+  },
+  {
+    "inputhash": "002917cdd4458fc6214ed9aaf24cd803",
+    "input": "\\frac{v^{2}}{2c^{2}}\\approx 10 ^{-10}"
+  },
+  {
+    "inputhash": "0029190f5afee4bdfbdd64cd63bc229b",
+    "input": "\\delta^\\prime_0 \\Omega^\\prime_0 = \\left ( \\delta_0^{-1} + k^2 + kx - 1 \\right ) \\delta_0 \\Omega_0."
+  },
+  {
+    "inputhash": "002938e91e1d12948fb82e55131c99e7",
+    "input": "\\|Df\\|_{\\infty,U}\\le K"
+  },
+  {
+    "inputhash": "00293e3339b4ec9cb5f75b6d8ad16918",
+    "input": "(z_0,\\dots,z_n)"
+  },
+  {
+    "inputhash": "002978af538e0cb31098f49ab472ca41",
+    "input": "n! [z^n] Q(z)."
+  },
+  {
+    "inputhash": "0029b0f2bac08e3532a265b95a74cde9",
+    "input": "\\lambda(L(B)) \\leq d"
+  },
+  {
+    "inputhash": "0029c61e83cd7d4546a128f79bd99822",
+    "input": "A,A^2, A^4,...,A^{2^L}"
+  },
+  {
+    "inputhash": "002a1bd731bf132e2f5b74a55b6f5c19",
+    "input": "R_A=R\/A=5R\/3"
+  },
+  {
+    "inputhash": "002a358521632ae5e656e6a8b93ab594",
+    "input": "\\left(\\frac{\\partial \\mathbf{u}}{\\partial x}\\right)^{\\rm T}"
+  },
+  {
+    "inputhash": "002ad7526d493f4eff5ee031f9462971",
+    "input": "PFB = \\frac{(3200)(FC)}{(FW)(MC)}"
+  },
+  {
+    "inputhash": "002aeef2f67a7ab68b15f786fe0b673c",
+    "input": "L\\left(C\\right) \\leq L\\left(T\\right)"
+  },
+  {
+    "inputhash": "002aef6e85c21276cf6521320260f5a6",
+    "input": " P^{\\, a} {}_{\\, ;\\tau} = (q\/m)\\,F^{\\,ab}P_b"
+  },
+  {
+    "inputhash": "002af1a2280bc443756033b1f386b056",
+    "input": "v = \\frac{c}{n}"
+  },
+  {
+    "inputhash": "002b0f6cbb93d8febf576f9419105ab4",
+    "input": "\\eta =1-\\frac{\\mathit{u}_1 - \\mathit{u}_4 }{  \\left(\\mathit{u}_2 - \\mathit{u}_3\\right)} = 1-\\frac{(1-4)}{ (5-9)} = 0.25  "
+  },
+  {
+    "inputhash": "002b6847b0190969eb52946cc76f76ea",
+    "input": "\\left\\{\\begin{matrix}ax+by&={\\color{red}e}\\\\ cx + dy&= {\\color{red}f}\\end{matrix}\\right.\\ "
+  },
+  {
+    "inputhash": "002b89f0fa3e9036b33e69d614b18060",
+    "input": "= [P^{(\\pm)} F, G]^{IJ} \\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\; Eq.8"
+  },
+  {
+    "inputhash": "002b94338d3ad1e2adc60862582ccff2",
+    "input": "\\text{bind}\\colon A^{?} \\to (A \\to B^{?}) \\to B^{?} = a \\mapsto f \\mapsto \\begin{cases} \\text{Nothing} & \\text{if} \\ a = \\text{Nothing}\\\\ f \\, a' & \\text{if} \\ a = \\text{Just} \\, a' \\end{cases}"
+  },
+  {
+    "inputhash": "002b9647d9a7aacbaaf44a4c005c7f54",
+    "input": "\\Delta \\tau = \\sqrt{\\frac{\\Delta s^2}{c^2}},\\, \\Delta s^2 > 0"
+  },
+  {
+    "inputhash": "002ba4169a0d47f5c24244d1f9a82cfd",
+    "input": " f^{*} = \\frac{bp - q}{b} = \\frac{p(b + 1) - 1}{b}, \\! "
+  },
+  {
+    "inputhash": "002c115aa5aba4aac873a44e7ec65ae1",
+    "input": "\\alpha_{\\tau\\tau}-\\beta_{\\tau\\tau}=e^{4\\beta}-e^{4\\alpha},\\,"
+  },
+  {
+    "inputhash": "002c1f766558995e2b1166f45a9eb1b0",
+    "input": "\\scriptstyle w[n]"
+  },
+  {
+    "inputhash": "002c5051d7053790557612d8d2ef2019",
+    "input": "h=C{{\\left[ \\frac{k_{v}^{3}{{\\rho }_{v}}g\\left( {{\\rho }_{L}}-{{\\rho }_{v}} \\right)\\left( {{h}_{fg}}+0.4{{c}_{pv}}\\left( {{T}_{s}}-{{T}_{sat}} \\right) \\right)}{{{D}_{o}}{{\\mu }_{v}}\\left( {{T}_{s}}-{{T}_{sat}} \\right)} \\right]}^{{}^{1}\\!\\!\\diagup\\!\\!{}_{4}\\;}}"
+  },
+  {
+    "inputhash": "002c8bca1a57ee65188cb4adb14e632c",
+    "input": "f:M \\mapsto N"
+  },
+  {
+    "inputhash": "002c92314c9a6e81956f72dbe61c39b2",
+    "input": "F=\\overline{(A \\wedge B) \\vee (C \\wedge D)}"
+  },
+  {
+    "inputhash": "002cbb90309335ef7183f232ac4bf55d",
+    "input": "a^2+c^2=b^2.\\quad"
+  },
+  {
+    "inputhash": "002ccee36eec167b5d69bb76524b75fd",
+    "input": "SU_{\\mu}(2) = (C(SU_{\\mu}(2),u)"
+  },
+  {
+    "inputhash": "002cddc16ea0c92f40c38202e128497f",
+    "input": "\\mathrm{2\\ Squares\\ of\\ Land} =(\\frac{\\mathrm{77\\ acres}}{\\mathrm{3\\ Squares\\ of\\ Land}}) \\cdot 2\\ Squares\\ of\\ Land\\ = 50.82\\ acres "
+  },
+  {
+    "inputhash": "002d84f8f9870a8115b7866dae7d6d31",
+    "input": "\\sigma_y^2(\\tau) = \\frac{2\\pi^2\\tau}{3}h_{-2}"
+  },
+  {
+    "inputhash": "002d94ef85bc9ea2c41a550659eb05eb",
+    "input": "\n  \\mathbf{E} = \\xi \\exp[i(kx - \\omega t)] \\mathbf{\\hat{x}}\n"
+  },
+  {
+    "inputhash": "002e06e607e26e75da249f7016a07881",
+    "input": "(-m_i\\partial_{tt}+\\gamma_iT_i\\nabla^2)n_{i1} = Z_ien_{i0}\\nabla\\cdot\\vec E "
+  },
+  {
+    "inputhash": "002e08819822cb8016bf5d8593615452",
+    "input": "\\varphi = 2\\cos{\\pi\\over 5} = \\frac{1+\\sqrt 5}{2}\\qquad\\xi = 2\\sin{\\pi\\over 5} = \\sqrt{\\frac{5-\\sqrt 5}{2}} = 5^{1\/4}\\varphi^{-1\/2}."
+  },
+  {
+    "inputhash": "002e5e677339873ae56de031260218b0",
+    "input": "N \/ \\Gamma "
+  },
+  {
+    "inputhash": "002e83cd7e3a8308c5836320f9ac437c",
+    "input": "\\langle x, y \\rangle\\ M\\ N = M\\ x\\ y\\ N"
+  },
+  {
+    "inputhash": "002ec7f385d551b2c31aedcf1fce7f32",
+    "input": "f_{k,i}"
+  },
+  {
+    "inputhash": "002f374ea2a9a5316d9dc2de5ba0db82",
+    "input": "\\begin{align} {z \\choose k} = \\frac{1}{k!}\\sum_{i=0}^k z^i s_{k,i}&=\\sum_{i=0}^k (z- z_0)^i \\sum_{j=i}^k {z_0 \\choose j-i} \\frac{s_{k+i-j,i}}{(k+i-j)!} \\\\ &=\\sum_{i=0}^k (z-z_0)^i \\sum_{j=i}^k z_0^{j-i} {j \\choose i} \\frac{s_{k,j}}{k!}.\\end{align}"
+  },
+  {
+    "inputhash": "002f4e6f409b9611d103847696ce30dd",
+    "input": "C_j^n"
+  },
+  {
+    "inputhash": "002f4eb7b268cb63dbf1116acb66ed23",
+    "input": " \\Psi(x,t) = \\sum_n a_n \\Psi_n(x,t) = a_1 \\Psi_1(x,t) + a_2 \\Psi_2(x,t) + \\cdots "
+  },
+  {
+    "inputhash": "002f8af8f796e82cb12d524429901412",
+    "input": "\\rho: S \\times X \\rightarrow \\{0,1\\}"
+  },
+  {
+    "inputhash": "002fa9e5e3ba534bf208264e185bab38",
+    "input": "u\\equiv\\frac{r}{\\alpha^2}"
+  },
+  {
+    "inputhash": "002fde17fb2df61903a3cb830c71241b",
+    "input": "(a_1,\\ b_1,\\ c_1,\\ d_1) + (a_2,\\ b_2,\\ c_2,\\ d_2) = (a_1 + a_2,\\ b_1 + b_2,\\ c_1 + c_2,\\ d_1 + d_2)."
+  },
+  {
+    "inputhash": "0030177130f83768f8c7205d73fdfadc",
+    "input": "P(y)\\,dy + Q(x)\\,dx =0\\,\\!"
+  },
+  {
+    "inputhash": "00306d74825ca4c699ac02b1aa3caa18",
+    "input": "=2^2\\cdot5\\cdot17\\cdot3719"
+  },
+  {
+    "inputhash": "00308fa277a754af480d4ed68cce2a56",
+    "input": "A=\\frac{2}{3}bh"
+  },
+  {
+    "inputhash": "0030dd6def07c2a872c23491e5c9ac7d",
+    "input": "\\displaystyle{K=\\begin{pmatrix} I & 0 \\\\ 0 & -I \\end{pmatrix}.}"
+  },
+  {
+    "inputhash": "0030ee1373b5795f95a2d5c2a66b49e5",
+    "input": "\\Delta_{\\mathrm{adv}}(x-y)"
+  },
+  {
+    "inputhash": "003101e85d556302192b466977a60a8d",
+    "input": "\\langle M, N \\rangle = \\lambda z.\\, z M N"
+  },
+  {
+    "inputhash": "00310fe1c22c34624ec5fd12b34213a3",
+    "input": " R_{s\\ normal} = \\sqrt{ \\frac{\\omega \\mu_0} {2 \\sigma} }"
+  },
+  {
+    "inputhash": "003144652c05f21650272d2e79242048",
+    "input": "s, h' \\models P"
+  },
+  {
+    "inputhash": "003163f025c02255900f7c4225a576b1",
+    "input": " ([\\mathbf{t}]_{\\times})^{T} = \\mathbf{V} \\, (\\mathbf{W} \\, \\mathbf{\\Sigma})^{T} \\, \\mathbf{V}^{T} = - \\mathbf{V} \\, \\mathbf{W} \\, \\mathbf{\\Sigma} \\, \\mathbf{V}^{T} = - [\\mathbf{t}]_{\\times} "
+  },
+  {
+    "inputhash": "0031b1a0e5881f6b0ca5ce52f4ab1b04",
+    "input": "f(x)=(x + 1)^{2}(x - 1), \\,"
+  },
+  {
+    "inputhash": "0031b38c8e97ea03a011524a0ea2b77f",
+    "input": "\\lambda (\\lambda 1 (1 ((\\lambda 1 1) (\\lambda \\lambda \\lambda 1 (\\lambda \\lambda 1) ((\\lambda 4 4 1 ((\\lambda 1 1) (\\lambda 2 (1 1)))) (\\lambda \\lambda \\lambda \\lambda 1 3 (2 (6 4))))) (\\lambda \\lambda \\lambda 4 (1 3))))) (\\lambda \\lambda 1 (\\lambda \\lambda 2) 2)"
+  },
+  {
+    "inputhash": "003206d6d973a25d27d7badeae180f6a",
+    "input": "\\begin{align}\n Area &{}= \\frac{1}{2} * base * height \\\\\n      &{}= \\frac{1}{2} * 2 \\pi r * r \\\\\n      &{}= \\pi r^2\n\\end{align}"
+  },
+  {
+    "inputhash": "003222c0d800ed511b981e1590fd5579",
+    "input": " 0.0000182\\dots,\\, "
+  },
+  {
+    "inputhash": "003248f7ade6dc2990d6ae7a805628a8",
+    "input": "\\frac{1,310,000\\ \\mathrm{N}}{(2,430\\ \\mathrm{kg})(9.807\\ \\mathrm{m\/s^2})}=54.97"
+  },
+  {
+    "inputhash": "003275472d45cd9706e6d88486831729",
+    "input": "\\phi_1,\\phi_2,\\phi_3 "
+  },
+  {
+    "inputhash": "0032b9d5134fe210abc9011e684a4d23",
+    "input": " a _{i}"
+  },
+  {
+    "inputhash": "0032f418f93bbaab612a5213f21b9122",
+    "input": "T_r = {T \\over T_c}"
+  },
+  {
+    "inputhash": "0033322e706f0c7b7dbae50459e4e1a2",
+    "input": "\\Pi\\,"
+  },
+  {
+    "inputhash": "00338841eb1ca80fef553f18dd02d7db",
+    "input": "\\forall x \\Big(\\forall y (y \\in x \\rightarrow P[y]) \\rightarrow P[x]\\Big) \\rightarrow \\forall x \\, P[x]"
+  },
+  {
+    "inputhash": "003395de5184f994ecb8f96a60890b6e",
+    "input": "\\chi_G(\\lambda) = (-1)^{|V|-k(G)} \\lambda^{k(G)} T_G(1-\\lambda,0),"
+  },
+  {
+    "inputhash": "0033aa54194929b25fd3cf4bb6c7d369",
+    "input": "z^p\\overline{z}^q."
+  },
+  {
+    "inputhash": "0033ccc8d80038ec44629c31966dfe06",
+    "input": "v_{(G; c)}(\\{1,3\\})=23"
+  },
+  {
+    "inputhash": "003411f88f779a77e67b7eccd9c6d41a",
+    "input": "\\rho _{\\alpha +} ^{i_0 } \\ge A_{\\alpha + }^{\\sigma (i_0 )} "
+  },
+  {
+    "inputhash": "00345c04233a175efdd1e2494c42a238",
+    "input": " \\phi_1 = -30^\\circ...+30^\\circ"
+  }
+]
