@@ -6,8 +6,13 @@ var program = require('commander'),
 
 program
     .version(json.version)
-    .usage('<json input file> <json output file>');
-
+    .usage('<json input file> <json output file>')
+    .option('-o, --output [format]', 'Output the info in a specific format. Available options are:\n' +
+    '"list": prints all tokens as list\n' +
+    '"tree":prints the texvc AST\n' +
+    '"json": a json object that can be visualized using d3\n' +
+    '"identifier": prints TeX code for all identifiers\n' +
+    '"all": is a combination of list, tree and identifier', 'list');
 
 program.parse(process.argv);
 
@@ -16,7 +21,11 @@ var input = program.args.join(' ');
 var formulae = require(program.args[0]);
 var result=[];
 formulae.map( function(x) {
-    result.push({inputhash:x.inputhash, tokens:texvcinfo.texvcinfo(x.input)});
+    var item = texvcinfo.texvcinfo(x.input,{format:program.output});
+    if(item.status){
+        item.input = x.input;
+    }
+    result.push({inputhash:x.inputhash, texvcinfo:item});
 });
 
 fs.writeFile(program.args[1], JSON.stringify(result), function(err) {
