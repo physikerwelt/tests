@@ -20,10 +20,12 @@ var input = program.args.join(' ');
 
 var formulae = require(program.args[0]);
 var result=[];
+var errors=[];
 formulae.map( function(x) {
     var item = texvcinfo.texvcinfo(x.input,{format:program.output});
     if(item.status){
-        item.input = x.input;
+        errors.push({inputhash:x.inputhash,input: x.input});
+        return;
     }
     result.push({inputhash:x.inputhash, texvcinfo:item});
 });
@@ -35,4 +37,14 @@ fs.writeFile(program.args[1], JSON.stringify(result), function(err) {
         console.log('The file "'+program.args[1]+'" was saved!');
     }
 });
+
+if(errors.length){
+    fs.writeFile("./error.json", JSON.stringify(errors), function(err) {
+        if(err) {
+            console.log('error saving document', err);
+        } else {
+            console.log('There were rendering errors. They were saved to ./error.json.');
+        }
+    });
+}
 
