@@ -1,0 +1,42 @@
+#!/usr/bin/env node
+var program = require('commander'),
+    texvc = require('texvcjs'),
+    json = require('../package.json'),
+    fs = require('fs');
+
+program
+    .version(json.version)
+    .usage('<json input file> <json error file>');
+
+program.parse(process.argv);
+
+var formulae = require(program.args[0]);
+var result=[];
+var errors=[];
+formulae.map( function(x) {
+    var item = texvc.check(x.input);
+    if(item.status!=='+'){
+        errors.push(x);
+    } else {
+        result.push(x);
+    }
+});
+
+fs.writeFile(program.args[0], JSON.stringify(result,null,2), function(err) {
+    if(err) {
+        console.log('error saving document', err);
+    } else {
+        console.log('The file "'+program.args[0]+'" was saved!');
+    }
+});
+
+if(errors.length){
+    fs.writeFile(program.args[1], JSON.stringify(errors,null,2), function(err) {
+        if(err) {
+            console.log('error saving document', err);
+        } else {
+            console.log('There were rendering errors. They were saved to'+program.args[1]);
+        }
+    });
+}
+

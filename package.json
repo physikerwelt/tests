@@ -24,7 +24,8 @@
   },
   "dependencies": {
     "commander": "~2.3.0",
-    "texvcinfo": "git+https://github.com/physikerwelt/texvcinfo"
+    "texvcinfo": "git+https://github.com/physikerwelt/texvcinfo",
+    "texvcjs": "^0.3.1"
   },
   "devDependencies": {
     "jshint": "~2.5.2",
