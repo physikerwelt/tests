@@ -1,6 +1,6 @@
 language: node_js
-before_script:
-  - git config --global http.postBuffer 1048576000
+git:
+  depth: 1
 node_js:
   - "0.10"
   - "0.12"
