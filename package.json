@@ -32,6 +32,6 @@
     "mocha": "~2.0.1"
   },
   "bin": {
-    "texvcjs": "./bin/run"
+    "run-test": "./bin/run"
   }
 }

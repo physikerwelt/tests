@@ -7,6 +7,7 @@ var program = require('commander'),
 program
     .version(json.version)
     .usage('<json input file> <json output file>')
+    .option('-p --pretty', 'Pretty prints the output')
     .option('-o, --output [format]', 'Output the info in a specific format. Available options are:\n' +
     '"list": prints all tokens as list\n' +
     '"tree":prints the texvc AST\n' +
@@ -30,7 +31,12 @@ formulae.map( function(x) {
     result.push({inputhash:x.inputhash, texvcinfo:item});
 });
 
-fs.writeFile(program.args[1], JSON.stringify(result), function(err) {
+if (program.pretty){
+    result = JSON.stringify(result,null,2);
+} else {
+    result = JSON.stringify(result);
+}
+fs.writeFile(program.args[1], result, function(err) {
     if(err) {
         console.log('error saving document', err);
     } else {
