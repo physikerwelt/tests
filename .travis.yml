@@ -1,5 +1,5 @@
 language: node_js
-before_install:
+before_script:
   - git config --global http.postBuffer 1048576000
 node_js:
   - "0.10"
